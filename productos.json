@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Camiseta",
+    "descripcion": "Camiseta de algodón 100%",
+    "precio": 19.99,
+    "imagen": "https://example.com/camiseta.jpg"
+  },
+  {
+    "nombre": "Gorra",
+    "descripcion": "Gorra ajustable de color negro",
+    "precio": 9.99,
+    "imagen": "https://example.com/gorra.jpg"
+  }
+]
