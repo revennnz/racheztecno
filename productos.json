@@ -2,8 +2,8 @@
   {
     "nombre": "Camiseta",
     "descripcion": "Camiseta de algodón 100%",
-    "precio": 19.99,
-    "imagen": "https://example.com/camiseta.jpg"
+    "precio": 100,
+    "imagen": "https://i.imgur.com/EUIU0qN.png"
   },
   {
     "nombre": "Gorra",
